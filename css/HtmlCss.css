@@ -1,0 +1,81 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;   
+}
+
+a{
+    float: left;
+    text-decoration: none;
+}
+
+.imgHome{    
+    width: 800px;
+    height: 320px;   
+    padding-left: 425px; 
+}
+
+.imgCodigoHome{
+    width: 600px;
+    height: 600px;
+    padding-left: 495px;
+    padding-top: 30px;
+}
+.imgQuemSomos{
+    width: 900px;
+    height: 520px;   
+    padding-left: 425px;
+    padding-top: 30px;
+}
+
+.imgCodigoQuemSomos{
+    width: 850px;
+    height: 700px;
+    padding-left: 444px;
+    padding-top: 30px;
+}
+
+.imgProdutos{
+    width: 300px;
+    height: 500px;   
+    padding-left: 648px;
+}
+
+.imgCodigoProdutos{    
+    padding-left: 315px;
+    padding-top: 40px;
+}
+
+.imgAgendar{
+    width: 900px;
+    height: 500px;
+    padding-left: 365px;
+    padding-bottom: 30px;
+}
+
+.imgCodigoAgendar{
+    padding-left: 247px;
+    width: 1200px;
+    height: 700px;
+}
+
+fieldset{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.imgCuriosidades{
+    width: 1200px;
+    height: 600px;
+    padding-left: 225px;
+    padding-bottom: 30px;
+}
+
+.imgCodigoCuriosidades{
+    width: 1000px;
+    height: 800px;
+    padding-left: 315px;
+}
+

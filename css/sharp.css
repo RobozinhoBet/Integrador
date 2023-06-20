@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+
+a{
+    float: left;
+    text-decoration: none;
+}
+
+.tamanhoimg{
+    width: 900px;
+    height: 600px;
+    padding-left: 330px;    
+}
+
+.tamanhoimg1{
+    width: 900px;
+    height: 250px;
+    padding-left: 330px;
+}
+.tamanhoimgCalculadora{
+    width: 800px;
+    height: 400px;
+    padding-left: 390px;
+    padding-bottom: 50px;
+}
+
+.logoSharp{
+    width: 200px;
+    height: 200px;
+    padding-left: 660px;
+    padding-bottom: 20px;
+}

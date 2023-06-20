@@ -1,0 +1,60 @@
+body{
+    background-color: antiquewhite;
+  }
+
+.tamanhoimg{
+    width: 900px;
+    height: 500px;
+    padding-left: 300px;
+    padding-top: 230px;
+}
+
+.tamanhoimgCodigo{
+    width: 900px;
+    height: 700px;    
+    padding-left: 354px;
+    padding-top: 30px
+}
+
+.tamanhoBarraCodigo{
+    padding-bottom: 50px;
+}
+
+.barrinha{
+    padding-left: 250px;
+    padding-top: 170px;
+}
+
+.tamanhoLogo{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 14%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a{
+    float: left;
+    text-decoration: none;
+}
+
+fieldset{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.imgcss{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 194%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tamanhoimgCodigoHtml{
+    width: 1000px;
+    height: 200px;
+    padding-left: 284px;
+}
